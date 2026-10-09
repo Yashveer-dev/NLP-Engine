@@ -71,7 +71,7 @@ This platform bridges unstructured text processing and quantitative risk modelin
   * Merger/Acquisition
   * Product Launch
 * **Schema Validation**: Guarantees typed data exchange between the NLP engine and downstream applications using Pydantic V2 schemas.
-* **Dynamic Asset Impairment**: Automatically triggers asset-class shocks when $\text{impact\_score} \ge 7$, providing loss delta analytics across corporate loans, real estate, sovereign debt, and derivatives.
+* **Dynamic Asset Impairment**: Automatically triggers asset-class shocks when impact score >= 7, providing loss delta analytics across corporate loans, real estate, sovereign debt, and derivatives.
 
 ---
 
