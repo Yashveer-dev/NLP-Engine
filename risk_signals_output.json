@@ -1,0 +1,47 @@
+[
+  {
+    "source": "Twitter/X (@MarketWatch)",
+    "headline_or_text": "$XYZ Bank credit default swaps surge to 10-year highs following rumors of severe liquidity shortfall.",
+    "entity_mentioned": "XYZ",
+    "sentiment_score": -0.43,
+    "event_classification": "Credit Event",
+    "impact_score": 10,
+    "trigger_stress_test": true
+  },
+  {
+    "source": "Reuters News",
+    "headline_or_text": "Federal Reserve unexpected rate hike of 75 bps causes sharp downturn across global bond yields.",
+    "entity_mentioned": "Federal Reserve",
+    "sentiment_score": -0.62,
+    "event_classification": "Macroeconomic",
+    "impact_score": 10,
+    "trigger_stress_test": true
+  },
+  {
+    "source": "Bloomberg Terminal",
+    "headline_or_text": "Tech Giant Corp announces $5B cash acquisition of AI Semiconductor startup.",
+    "entity_mentioned": "Tech Giant Corp",
+    "sentiment_score": 0.4,
+    "event_classification": "Merger/Acquisition",
+    "impact_score": 5,
+    "trigger_stress_test": false
+  },
+  {
+    "source": "Financial Times",
+    "headline_or_text": "Middle East military escalations trigger oil supply bottlenecks and maritime shipping pauses.",
+    "entity_mentioned": "Middle East",
+    "sentiment_score": 0.0,
+    "event_classification": "Geopolitical",
+    "impact_score": 7,
+    "trigger_stress_test": true
+  },
+  {
+    "source": "CNBC Breaking",
+    "headline_or_text": "Global Automaker unveils next-generation solid-state electric vehicle battery line ahead of schedule.",
+    "entity_mentioned": "Global Automaker",
+    "sentiment_score": 0.5,
+    "event_classification": "Product Launch",
+    "impact_score": 4,
+    "trigger_stress_test": false
+  }
+]
